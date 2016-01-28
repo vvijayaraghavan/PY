@@ -1,3 +1,7 @@
 http://twistedmatrix.com/trac/wiki
   This is a python based opensource event driven networking engine.
   Written on Python 2.x
+
+dJango - https://www.djangoproject.com/
+  Opensource Web application framework for Python
+  Django Version - 1.9, 1.10 | Python Version - 2.7, 3.4, 3.5
